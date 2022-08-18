@@ -10,7 +10,7 @@
 
 - Title: Poly Besiege
 
-![image](public/Figures/Title2.png)
+![image](https://github.com/linzhonghao3/TencentMoreFun_Intern_Project/blob/main/Figures/Title2.png)
 
 - Category: Sandbox game
 
