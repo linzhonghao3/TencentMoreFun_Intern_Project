@@ -10,7 +10,7 @@
 
 - Title: Poly Besiege
 
-![企业微信截图_16597775554157](C:\Users\zhonghaolin\Desktop\答辩\企业微信截图_16597775554157.png)
+![image](public/Figures/Title2.png)
 
 - Category: Sandbox game
 
